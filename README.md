@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hei! Jeg er Hiwa Abdolahi
 
-<!--
-**HiwaAbdolahi/HiwaAbdolahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack-utvikler med lidenskap for moderne og brukervennlige løsninger.  
+💻 Elsker å bygge robuste systemer med fokus på sikkerhet og design.  
+☁️ Erfaring med .NET, Azure, CI/CD, og responsive web-apper.  
 
-Here are some ideas to get you started:
+## 🚩 Mine prosjekter
+- 💼 [HouseRentalProject](https://github.com/HiwaAbdolahi/HouseRentalProject) — Komplett fullstack-plattform
+- 🤖 Bachelor-prosjekt med ansiktsgjenkjenning og Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Teknologier
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+## 📫 Kontakt
+[LinkedIn](https://www.linkedin.com/in/hiwa-abdolahi-210b03208/) · [E-post](mailto:hiwa.abdolahi.dev@gmail.com)
