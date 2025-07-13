@@ -1,8 +1,6 @@
 # 👋 Hei! Jeg er Hiwa Abdolahi 
 <img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="15%" style="border-radius: 10px;"/>
 
-
-
 ---
 
 ## 💻 Fullstack-utvikler | Sky & DevOps-entusiast | UI-perfeksjonist
@@ -17,20 +15,42 @@
 ### 🏡 [HouseRentalProject](https://github.com/HiwaAbdolahi/HouseRentalProject)
 En komplett fullstack-utleieplattform bygget med .NET, Razor Pages og Entity Framework.  
 ⚙️ CI/CD pipeline via GitHub Actions → Azure App Service.  
-🎨 Moderne design, flerspråklig støtte og avansert bildehåndtering.
+🎨 Moderne design, avansert bildehåndtering, flerspråklig støtte og høy brukervennlighet.
 
 ---
 
 ### 🤖 [Bachelorprosjekt — Ansikt til ansikt med teknologi](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet)
-Webapp for automatisk ansiktsgjenkjenning (Azure Face API) for innsjekk i kontorlandskap.  
-☁️ Azure Blob Storage, Cosmos DB, SQL og Bicep for infrastruktur.  
-💡 Fokus på sikkerhet, sanntid og intuitivt dashboard.
+Webapplikasjon for ansiktsgjenkjenning (Azure Face API) for automatisert innsjekk i kontorlandskap.  
+☁️ Bruker Azure Blob Storage, Cosmos DB, SQL og Bicep for infrastruktur.  
+💡 Fokus på sikkerhet, sanntid og et intuitivt dashboard for ansatte.
 
 ---
 
-### 🚗 [MotorvognRegister](https://github.com/HiwaAbdolahi/motorvognRegister)
-Registreringssystem for kjøretøy med avansert søk, oppdatering og oversikt.  
-💻 Bygget i Java Spring Boot, responsivt frontend og robust database.
+### 💳 [TestingAvProgramvare](https://github.com/HiwaAbdolahi/TestingAvProgramvare)
+Bankadministrasjonssystem utviklet som en del av kurset "Testing av programvare".  
+🧪 Inkluderer JUnit-enhetstester, SoapUI-integrasjonstester og Selenium systemtester.  
+📄 Full dokumentasjon og detaljerte brukerhistorier.
+
+---
+
+### ☁️ [sky](https://github.com/HiwaAbdolahi/sky)
+Python-basert prosjekt for nettverkstesting og ytelsesmåling (Simpleperf).  
+⚙️ Bruker Mininet og iperf for å teste ulike topologier, måle båndbredde og forsinkelse.  
+📈 Automatisk generering av resultater for videre analyse.
+
+---
+
+### 🤖 [My_lab_AI_Labs](https://github.com/HiwaAbdolahi/My_lab_AI_Labs)
+Lab-eksperimenter og oppgaver innen kunstig intelligens og maskinlæring.  
+🧠 Fokus på praktisk forståelse av algoritmer, visualiseringer og AI-analyse.  
+🔬 Bygger grunnlag for videre forskning og praktiske AI-prosjekter.
+
+---
+
+### ⚙️ [algoritmerOgDatastrukturer-master](https://github.com/HiwaAbdolahi/algoritmerOgDatastrukturer-master)
+Prosjekt i faget Algoritmer og Datastrukturer.  
+🌳 Implementasjon av binære søketrær, traverseringer, serialisering/deserialisering og avanserte metoder.  
+📄 Omfattende README med forklaring av oppgaveløsning og algoritmisk logikk.
 
 ---
 
@@ -63,7 +83,6 @@ Registreringssystem for kjøretøy med avansert søk, oppdatering og oversikt.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=radical" alt="Hiwa's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=radical&hide=jupyter%20notebook" />
-
 </p>
 
 ---
