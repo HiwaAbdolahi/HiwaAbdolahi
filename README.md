@@ -1,6 +1,7 @@
-# 👋 Hei! Jeg er Hiwa Abdolahi
+# 👋 Hei! Jeg er Hiwa Abdolahi 
+<img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="15%" style="border-radius: 10px;"/>
 
-<img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="60%" style="border-radius: 15px;"/>
+
 
 ---
 
@@ -61,7 +62,8 @@ Registreringssystem for kjøretøy med avansert søk, oppdatering og oversikt.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=radical" alt="Hiwa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=radical&hide=jupyter%20notebook" />
+
 </p>
 
 ---
