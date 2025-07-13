@@ -1,22 +1,35 @@
 # 👋 Hei! Jeg er Hiwa Abdolahi
 
-<img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="100%" />
-
-## 💻 Fullstack-utvikler | Sky & DevOps entusiast | UI-perfeksjonist
-
-Jeg er en engasjert utvikler med stor lidenskap for å skape moderne, brukervennlige og sikre løsninger.  
-Gjennom prosjekter som HouseRentalProject og bacheloroppgaven ved OsloMet har jeg opparbeidet solid erfaring med både frontend og backend, samt skyteknologi og CI/CD.
-
-Jeg elsker å kombinere design og funksjonalitet for å bygge løsninger som både ser bra ut og fungerer perfekt. 🚀
+<img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="60%" style="border-radius: 15px;"/>
 
 ---
 
-## 🚩 Utvalgte prosjekter
+## 💻 Fullstack-utvikler | Sky & DevOps-entusiast | UI-perfeksjonist
 
-- 🏡 [**HouseRentalProject**](https://github.com/HiwaAbdolahi/HouseRentalProject) — Fullstack utleieplattform med .NET, Azure, CI/CD og responsive design
-- 🎓 [**Bachelorprosjekt — Ansikt til ansikt med teknologi**](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet) — Webapp med ansiktsgjenkjenning, Azure Face API og automatisert innsjekk
-- 🚗 [**MotorvognRegister**](https://github.com/HiwaAbdolahi/motorvognRegister) — Nettbasert kjøretøyregister med avansert søk
-- ☁️ [**Sky**](https://github.com/HiwaAbdolahi/sky) — Eksperimentering med Python og skybaserte tjenester
+✨ Jeg bygger **moderne**, **responsive** og **sikre** løsninger med fokus på detaljer og brukeropplevelse.  
+💡 Jeg elsker å skape applikasjoner som ikke bare fungerer — men som *føles* profesjonelle og elegante.
+
+---
+
+## 🚀 Utvalgte prosjekter
+
+### 🏡 [HouseRentalProject](https://github.com/HiwaAbdolahi/HouseRentalProject)
+En komplett fullstack-utleieplattform bygget med .NET, Razor Pages og Entity Framework.  
+⚙️ CI/CD pipeline via GitHub Actions → Azure App Service.  
+🎨 Moderne design, flerspråklig støtte og avansert bildehåndtering.
+
+---
+
+### 🤖 [Bachelorprosjekt — Ansikt til ansikt med teknologi](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet)
+Webapp for automatisk ansiktsgjenkjenning (Azure Face API) for innsjekk i kontorlandskap.  
+☁️ Azure Blob Storage, Cosmos DB, SQL og Bicep for infrastruktur.  
+💡 Fokus på sikkerhet, sanntid og intuitivt dashboard.
+
+---
+
+### 🚗 [MotorvognRegister](https://github.com/HiwaAbdolahi/motorvognRegister)
+Registreringssystem for kjøretøy med avansert søk, oppdatering og oversikt.  
+💻 Bygget i Java Spring Boot, responsivt frontend og robust database.
 
 ---
 
@@ -34,19 +47,22 @@ Jeg elsker å kombinere design og funksjonalitet for å bygge løsninger som bå
 
 ---
 
-## ✨ Det jeg brenner for
+## ⚡ Hva jeg brenner for
 
-✅ Bygge elegante, responsive og brukervennlige webapplikasjoner  
-✅ Automatisere prosesser med CI/CD og skydeployering  
-✅ Skape sikre og pålitelige løsninger, både frontend og backend  
-✅ Utforske ny teknologi og lære hver dag
+- Å levere **visuelt vakre** og gjennomtenkte løsninger
+- Automatisering og CI/CD pipelines
+- Å lære og eksperimentere med ny teknologi
+- Sikkerhet og ytelse i fullstack-applikasjoner
+- Brukeropplevelse som imponerer og engasjerer
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Hiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=radical" alt="Hiwa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
