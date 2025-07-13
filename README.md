@@ -3,7 +3,7 @@
 
 ---
 
-## 💻 Fullstack-utvikler | Sky & DevOps-entusiast | UI-perfeksjonist
+## 💻 Fullstack-utvikler | Sky & DevOps-entusiast 
 
 ✨ Jeg bygger **moderne**, **responsive** og **sikre** løsninger med fokus på detaljer og brukeropplevelse.  
 💡 Jeg elsker å skape applikasjoner som ikke bare fungerer — men som *føles* profesjonelle og elegante.
