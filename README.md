@@ -15,7 +15,7 @@
 En komplett fullstack-utleieplattform bygget med .NET, Razor Pages og Entity Framework.  
 ⚙️ CI/CD pipeline via GitHub Actions → Azure App Service.  
 🎨 Moderne design, avansert bildehåndtering, flerspråklig støtte og høy brukervennlighet.
-Live : https://houserental.azurewebsites.net/
+  ##### Live : https://houserental.azurewebsites.net/
 
 ---
 
