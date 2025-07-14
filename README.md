@@ -65,11 +65,14 @@ Prosjekt i faget Algoritmer og Datastrukturer.
 
 ## ⚡ Hva jeg brenner for
 
-- Å levere **visuelt vakre** og gjennomtenkte løsninger
-- Automatisering og CI/CD pipelines
-- Å lære og eksperimentere med ny teknologi
-- Sikkerhet og ytelse i fullstack-applikasjoner
-- Brukeropplevelse som imponerer og engasjerer
+- 🚀 Design og implementasjon av **modulære backend-arkitekturer** med høy ytelse
+- 🔒 Utvikling av **sikre og dokumenterte RESTful API-er** og mikrotjenester
+- ⚙️ Automatisering av bygg, deploy og infrastruktur med **CI/CD og DevOps**
+- ✅ **Testing i alle ledd**, fra enhetstesting og integrasjonstesting til system- og brukeraksepttesting
+- 💾 Optimalisering av **databaseytelse og datasikkerhet**
+- 🎨 Å kombinere solid backend-logikk med intuitive og elegante frontend-opplevelser
+- 💡 Å lære, eksperimentere og alltid være i forkant av teknologi
+
 
 ---
 
