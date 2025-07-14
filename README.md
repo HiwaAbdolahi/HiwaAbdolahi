@@ -1,5 +1,4 @@
 # 👋 Hei! Jeg er Hiwa Abdolahi 
-<img src="https://i.postimg.cc/05fZq2fW/IMG-7956-Last-One.png" alt="Hiwa profile banner" width="15%" style="border-radius: 10px;"/>
 
 ---
 
