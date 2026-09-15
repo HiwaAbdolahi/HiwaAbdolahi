@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">From device to cloud architecture</title>
+  <desc id="desc">Device data flows through MQTT, .NET services and Azure to a live dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091525"/><stop offset="1" stop-color="#0d2038"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1100" height="190" rx="22" fill="url(#bg)"/>
+  <path d="M160 95H940" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 9" opacity=".7">
+    <animate attributeName="stroke-dashoffset" values="34;0" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(120 95)"><circle r="42" fill="#102b46" stroke="#38bdf8"/><text y="-3" fill="#e0f2fe" font-size="16" font-weight="700">DEVICE</text><text y="19" fill="#7dd3fc" font-size="12">Telemetry</text></g>
+    <g transform="translate(335 95)"><circle r="42" fill="#182547" stroke="#60a5fa"/><text y="-3" fill="#eff6ff" font-size="16" font-weight="700">MQTT</text><text y="19" fill="#93c5fd" font-size="12">Messaging</text></g>
+    <g transform="translate(550 95)"><circle r="42" fill="#24204b" stroke="#818cf8"/><text y="-3" fill="#eef2ff" font-size="16" font-weight="700">.NET</text><text y="19" fill="#a5b4fc" font-size="12">Services</text></g>
+    <g transform="translate(765 95)"><circle r="42" fill="#27204a" stroke="#8b5cf6"/><text y="-3" fill="#f5f3ff" font-size="16" font-weight="700">AZURE</text><text y="19" fill="#c4b5fd" font-size="12">Cloud</text></g>
+    <g transform="translate(980 95)"><circle r="42" fill="#202340" stroke="#a78bfa"/><text y="-3" fill="#faf5ff" font-size="15" font-weight="700">LIVE UI</text><text y="19" fill="#ddd6fe" font-size="12">Dashboard</text></g>
+  </g>
+  <circle r="6" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M160 95H940"/></circle>
+</svg>
