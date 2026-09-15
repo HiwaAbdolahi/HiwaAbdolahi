@@ -30,13 +30,13 @@ I enjoy building complete systems: backend services, cloud infrastructure, real-
 💼 Open to software development opportunities in Norway
 ```
 
+## Selected work
+
 <div align="center">
 
-<img src="./assets/system-flow.svg" width="100%" alt="Device data flowing through MQTT, .NET and Azure to a live dashboard" />
+<img src="./assets/project-showcase.svg" width="100%" alt="SmartEnergy, AI Office Check-In, Developer Portfolio and HouseRental" />
 
 </div>
-
-## Selected work
 
 <table>
 <tr>
