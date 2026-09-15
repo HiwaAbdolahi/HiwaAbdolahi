@@ -1,418 +1,289 @@
-# 👋 Hei! Jeg er Hiwa Abdolahi
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Fullstack+Utvikler;Sky+%26+DevOps+Ingeniør;IoT+%26+Sanntidssystemer;Azure+Spesialist;Bygger+Alltid+Noe+Kult)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hiwa%20Abdolahi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20M.Sc.%20Informatics%20Student&descSize=18&descAlignY=58&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+with+.NET+%26+Azure;Creating+IoT+%26+real-time+systems;Connecting+cloud%2C+data+%26+applied+AI;Always+learning.+Always+building.)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://hiwa.azurewebsites.net"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hiwa-abdolahi-210b03208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hiwa.abdolahi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+![Location](https://img.shields.io/badge/Drammen-Norway-2ea44f?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to-Software_Opportunities-success?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=HiwaAbdolahi&style=flat-square&color=58A6FF)
 
 </div>
 
----
+## About me
 
-<div align="center">
+I am a software developer based in **Drammen, Norway**, with a B.Sc. in Information Technology from **OsloMet**. I am currently pursuing an **M.Sc. in Informatics at USN Kongsberg**.
 
-## 💻 **Enterprise-nivå Fullstack Utvikler & Sky-arkitekt**
-
-✨ **Produksjonsklare løsninger** • 🚀 **Sky-native arkitektur** • ⚡ **Sanntidssystemer** • 🤖 **AI-integrasjon**
-
-*Bygger alt fra IoT edge-systemer til premium web-opplevelser - med fokus på kvalitet som imponerer*
-
-</div>
-
----
-
-## 🏆 **Flaggskip Produksjonssystemer**
-
-<div align="center">
-
-### ⚡ [SmartEnergy IoT Plattform](https://github.com/HiwaAbdolahi/SmartEnergy) • 🌐 [Porteføljeopplevelse](https://github.com/HiwaAbdolahi/PortfolioWebsite)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-![SmartEnergy](https://img.shields.io/badge/🔥_LIVE_PRODUKSJON-brightgreen?style=for-the-badge)
-
-</div>
-
-**Enterprise IoT Edge Plattform**  
-3 mikrotjenester kjører 24/7 i Azure Container Apps
-
-🏗️ **Arkitektur:** MQTT over WSS/TLS, sanntids dashboard  
-⚡ **Ytelse:** <50ms latency, 99.9% oppetid  
-🚀 **DevOps:** CI/CD pipeline, SHA-tagging, auto-deploy  
-🛠️ **Teknologi:** .NET 8, Azure Container Apps, Docker, WebSockets
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://smartenergy-dev.calmmushroom-56122533.norwayeast.azurecontainerapps.io/)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-![Portfolio](https://img.shields.io/badge/🎨_PREMIUM_WEB-blue?style=for-the-badge)
-
-</div>
-
-**AI-drevet Porteføljeopplevelse**  
-Moderne portefølje med avanserte animasjoner og AI-agent
-
-🎯 **Funksjoner:** GSAP-animasjoner, interaktive gallerier  
-🤖 **AI-integrasjon:** Personlig AI-agent, sanntids chat  
-📐 **Galleri:** Arkitekturdiagrammer med zoom/pan  
-🛠️ **Teknologi:** ASP.NET MVC, GSAP, Azure Communication Services
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2196F3?style=for-the-badge&logoColor=white)](https://hiwa.azurewebsites.net)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **Komplett Prosjektportefølje**
-
-### **💼 Enterprise & Produksjonssystemer**
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🏡 [Utleieplattform](https://github.com/HiwaAbdolahi/HouseRentalProject)
-**Fullstack Utleiesystem**
-
-🔧 **Stack:** .NET Core, Entity Framework, Azure SQL  
-🌐 **Funksjoner:** Flerspråklig, bildebehandling, responsivt design  
-🚀 **Deploy:** GitHub Actions → Azure App Service  
-
-[![Live](https://img.shields.io/badge/Live-success?style=flat-square&logo=microsoft-azure)](https://houserental.azurewebsites.net/)
-
-</td>
-<td width="34%">
-
-#### 🤖 [Ansiktsgjenkjenningssystem](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet)
-**AI-drevet Kontorinnsjekk**
-
-🧠 **AI:** Azure Face API, Computer Vision  
-☁️ **Sky:** Cosmos DB, Blob Storage, Bicep IaC  
-🏢 **Kunde:** Utviklet for Evidi AS (industripartnerskap)
-
-[![Bachelor](https://img.shields.io/badge/Bacheloroppgave-orange?style=flat-square&logo=microsoft-academic)](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet)
-
-</td>
-<td width="33%">
-
-#### 🏦 [Banksystem Suite](https://github.com/HiwaAbdolahi/TestingAvProgramvare)
-**Enterprise Testing Rammeverk**
-
-🧪 **Testing:** JUnit, SoapUI, Selenium (TDD/BDD)  
-💳 **Domene:** Kompleks banklogikk, sikkerhetsfokus  
-📊 **Dekning:** Unit, Integrasjon, E2E testing
-
-[![Testing](https://img.shields.io/badge/Test_Suite-green?style=flat-square&logo=junit5)](https://github.com/HiwaAbdolahi/TestingAvProgramvare)
-
-</td>
-</tr>
-</table>
-
-### **🔬 Forskning & Analytikk Prosjekter**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🌐 [Nettverksytelse Plattform](https://github.com/HiwaAbdolahi/sky)
-**Python-basert Nettverksanalyse**
-
-🔬 **Analytikk:** Båndbreddermåling, latency-analyse  
-🐍 **Teknologi:** Python, Mininet, iperf, automatisk rapportering  
-📊 **Output:** Sanntidsmetrikker, ytelsesdashboard
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/HiwaAbdolahi/sky)
-
-</td>
-<td width="50%">
-
-#### 🤖 [AI/ML Laboratorium](https://github.com/HiwaAbdolahi/My_lab_AI_Labs)
-**Maskinlæring Eksperimenter**
-
-🎯 **Fokus:** Aksjeprediksjoner, Random Forest, Linear Regression  
-📊 **Stack:** Python, Pandas, Scikit-learn, Matplotlib  
-🧠 **Ferdigheter:** Dataanalyse, modellevaluering, visualisering
-
-[![ML](https://img.shields.io/badge/Maskinlæring-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/HiwaAbdolahi/My_lab_AI_Labs)
-
-</td>
-</tr>
-</table>
-
-### **⚙️ Datavitenskap Grunnlag**
-
-#### 🌳 [Algoritmer & Datastrukturer](https://github.com/HiwaAbdolahi/algoritmerOgDatastrukturer-master)
-**Avansert CS Implementasjon**
-
-🔧 **Funksjoner:** Binære søketrær, traverseringer, serialisering  
-📚 **Fokus:** Algoritmisk logikk, ytelsesoptimalisering  
-💡 **Dokumentasjon:** Omfattende README med forklaringer
-
-[![Algoritmer](https://img.shields.io/badge/Algoritmer-purple?style=flat-square&logo=algolia&logoColor=white)](https://github.com/HiwaAbdolahi/algoritmerOgDatastrukturer-master)
-
----
-
-## 💡 **Teknologi Økosystem**
-
-<div align="center">
-
-### **🏗️ Backend & Sky-arkitektur**
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **📡 IoT & Sanntidssystemer**
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### **🎨 Frontend & Animasjon**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### **🚀 DevOps & CI/CD**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **🧪 Testing & Kvalitet**
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logo=soap&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **💾 Databaser & Lagring**
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### **🤖 AI & Maskinlæring**
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
----
-
-## ⚡ **Ekspertise Matrise**
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### **🏗️ Systemarkitektur**
-- **Mikrotjenester** designmønstre
-- **Hendelsesdrevet** arkitektur
-- **Sanntids IoT** systemer
-- **Sky-native** applikasjoner
-- **API design** & dokumentasjon
-
-</td>
-<td valign="top" width="25%">
-
-### **☁️ Sky & DevOps**
-- **Azure** økosystem mesterskap
-- **CI/CD pipeline** automatisering
-- **Container orkestrering**
-- **Infrastruktur som Kode**
-- **Produksjonsovervåking**
-
-</td>
-<td valign="top" width="25%">
-
-### **💻 Fullstack Utvikling**
-- **.NET** økosystem ekspertise
-- **Moderne JavaScript** & animasjoner
-- **Database** design & optimalisering
-- **Sikkerhet** implementering
-- **Ytelse** tuning
-
-</td>
-<td valign="top" width="25%">
-
-### **🔬 Kvalitet & Testing**
-- **Test automatisering** (alle nivåer)
-- **TDD/BDD** metodikker
-- **Ytelsestesting**
-- **Sikkerhetstesting**
-- **Kodekvalitet** sikring
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 **GitHub Statistikk**
-
-<div align="center">
-
-<a href="https://github.com/HiwaAbdolahi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/HiwaAbdolahi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiwaAbdolahi&theme=tokyonight" alt="Hiwa's streak"/>
-</a>
-
-</div>
-
----
-
-## 🏆 **Prestasjoner & Anerkjennelse**
-
-<div align="center">
-
-### **🎓 Utdanning & Sertifiseringer**
-![Bachelor](https://img.shields.io/badge/Bachelor_IT-OsloMet_2024-success?style=for-the-badge&logo=microsoft-academic)
-![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Developer](https://img.shields.io/badge/Azure%20Developer-AZ--204-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### **🏢 Bransjeerfaring**
-![Evidi Partnership](https://img.shields.io/badge/Industripartnerskap-Evidi_AS-orange?style=for-the-badge&logo=handshake)
-![Production Systems](https://img.shields.io/badge/Produksjonssystemer-Live_24/7-brightgreen?style=for-the-badge&logo=server)
-
-</div>
-
----
-
-## 🌟 **Profesjonell Filosofi**
-
-<div align="center">
-
-### 💡 **"Bygger morgendagens løsninger med dagens beste praksis"**
-
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### **🎯 Produksjon-først Mentalitet**
-Hvert prosjekt bygges med produksjon i tankene:
-- **Ekte overvåking** & varsling
-- **Ytelsesoptimalisering**  
-- **Sikkerhet by design**
-- **Skalerbarhetsplanlegging**
-
-</td>
-<td width="50%" align="center">
-
-### **🚀 Kontinuerlig Innovasjon**
-Alltid push grenser samtidig som jeg holder meg praktisk:
-- **Siste teknologi utforsking**
-- **Beprøvde arkitekturmønstre**
-- **Forretningsverdi fokus**
-- **Teamsamarbeid**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎮 **Nåværende Status**
-
-<div align="center">
+I enjoy building complete systems: backend services, cloud infrastructure, real-time data flows and user-facing applications. My strongest interests are **.NET, Azure, IoT, data engineering and applied AI**.
 
 ```text
-🌍 Lokasjon: Drammen, Norge        🎯 Status: Åpen for Muligheter
-💼 Fokus: Sky-native Løsninger     🚀 Lidenskap: Sanntidssystemer  
-☕ Drivstoff: Kaffe & Komplekse Problemer  🌙 Timeplan: Fleksibel Verden Over
-🎨 Hobby: UI/UX Design Eksellanse  📚 Lærer: Avansert Kubernetes
+🎓 M.Sc. Informatics student at USN Kongsberg
+☁️ Building cloud-connected applications with .NET and Azure
+📡 Interested in IoT, real-time communication and distributed systems
+🚀 Taking projects from idea and architecture to deployment
+💼 Open to software development opportunities in Norway
 ```
 
-</div>
+## Featured work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📈 **Siste Prestasjoner**
+### ⚡ SmartEnergy
+
+**Cloud-connected IoT & real-time platform**
+
+A distributed system exploring how devices, messaging, backend services and live dashboards work together. Its services are containerized and deployed to Azure.
+
+- Secure MQTT communication
+- Live telemetry and dashboard updates
+- Containerized services with Docker
+- Azure Container Apps deployment
+- Automated CI/CD with GitHub Actions
+- Versioned container images
+
+`C#` `.NET 8` `Azure` `Docker` `MQTT` `WebSockets`
+
+<p>
+  <a href="https://github.com/HiwaAbdolahi/SmartEnergy"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartEnergy repository" /></a>
+  <a href="https://smartenergy-dev.calmmushroom-56122533.norwayeast.azurecontainerapps.io/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SmartEnergy demo" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Office Check-In
+
+**Bachelor project with Evidi AS × OsloMet**
+
+A facial-recognition office check-in solution that integrates Azure AI services into a complete web application for identity-assisted check-in.
+
+- Facial recognition with Azure Face API
+- Authentication and identity management
+- Cosmos DB integration
+- Azure Blob Storage for images
+- Full-stack ASP.NET Core application
+- Developed with an industry partner
+
+`C#` `ASP.NET Core` `Azure Face API` `Cosmos DB` `Blob Storage`
+
+<p>
+  <a href="https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bachelor project repository" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+**Interactive portfolio & AI experience**
+
+More than a static portfolio: an interactive web experience that presents my projects, architecture and technical journey.
+
+- Integrated AI assistant
+- GSAP-powered animations
+- Interactive architecture diagrams
+- Project galleries and responsive design
+- Azure-powered contact functionality
+- Hosted on Microsoft Azure
+
+`ASP.NET Core MVC` `JavaScript` `GSAP` `Azure` `HTML` `CSS`
+
+<p>
+  <a href="https://github.com/HiwaAbdolahi/PortfolioWebsite"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" /></a>
+  <a href="https://hiwa.azurewebsites.net"><img src="https://img.shields.io/badge/Visit_Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Visit portfolio" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 HouseRental
+
+**Full-stack rental platform**
+
+A full-stack application covering backend development, identity, database persistence, image handling and cloud deployment.
+
+- Authentication and authorization
+- Property and image management
+- Entity Framework Core persistence
+- Multilingual functionality
+- Responsive user interface
+- Automated Azure deployment
+
+`C#` `ASP.NET Core MVC` `EF Core` `Identity` `Azure`
+
+<p>
+  <a href="https://github.com/HiwaAbdolahi/HouseRentalProject"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="HouseRental repository" /></a>
+  <a href="https://houserental.azurewebsites.net/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="HouseRental demo" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+## More projects
+
+| Project | What I worked with | Repository |
+|:--|:--|:--:|
+| 🏦 **Software Testing** | JUnit, Selenium, SoapUI, unit, integration and end-to-end testing | [View](https://github.com/HiwaAbdolahi/TestingAvProgramvare) |
+| 🧠 **AI / ML Lab** | Python, Pandas, scikit-learn, Random Forest, regression and model evaluation | [View](https://github.com/HiwaAbdolahi/My_lab_AI_Labs) |
+| 🌐 **Network Analysis** | Python, Mininet, iperf, bandwidth and latency analysis, automated reporting | [View](https://github.com/HiwaAbdolahi/sky) |
+| 🌳 **Algorithms & Data Structures** | Binary search trees, traversal, serialization and algorithmic problem solving | [View](https://github.com/HiwaAbdolahi/algoritmerOgDatastrukturer-master) |
+
+## Technology
 
 <div align="center">
 
-```
-🚀 Deployet SmartEnergy IoT Plattform til Azure Container Apps  
-🎨 Lanserte premium portefølje med AI-drevet chat agent  
-📊 Implementerte sanntids analytikk dashboard med <50ms latency  
-🔧 Optimaliserte CI/CD pipeline for zero-downtime deployments  
-🤖 Integrerte Azure Face API for enterprise ansiktsgjenkjenning  
-🌐 Bygget flerspråklig utleieplattform med avansert bildebehandling  
-🧪 Utviklet omfattende testing suite for banksystem  
-📐 Opprettet interaktivt arkitektur diagram galleri  
-```
+### Core
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Cloud, data & delivery
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cosmos DB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Web, real-time & quality
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
 
 </div>
 
----
+## Education & current focus
 
-## 📫 **La oss bygge noe fantastisk sammen!**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 M.Sc. in Informatics
+
+**University of South-Eastern Norway (USN)**  
+Kongsberg, Norway · `2026 — Present`
+
+Current focus:
+
+- Data management and engineering
+- Distributed and real-time systems
+- Cloud technologies
+- Applied AI and machine learning
+- Modern software architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 B.Sc. in Information Technology
+
+**Oslo Metropolitan University (OsloMet)**  
+Oslo, Norway · `2021 — 2024`
+
+Key areas:
+
+- Software and web development
+- Databases and algorithms
+- Artificial intelligence
+- Software testing
+- Operating systems
+- Information security
+
+</td>
+</tr>
+</table>
+
+## GitHub activity
 
 <div align="center">
 
-### **🌐 Profesjonelt Nettverk**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hiwa's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hiwa's most used languages" />
 
-[![Portefølje](https://img.shields.io/badge/🌐_Premium_Portefølje-FF5722?style=for-the-badge&logoColor=white)](https://hiwa.azurewebsites.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiwa-abdolahi-210b03208/)
-[![E-post](https://img.shields.io/badge/Profesjonell_E--post-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiwa.abdolahi.dev@gmail.com)
+<br />
 
-### **🔥 Live Produksjonssystemer**
-
-[![SmartEnergy](https://img.shields.io/badge/🔥_SmartEnergy_IoT-success?style=for-the-badge)](https://smartenergy-dev.calmmushroom-56122533.norwayeast.azurecontainerapps.io/)
-[![Arkitektur](https://img.shields.io/badge/📐_Arkitektur_Galleri-blue?style=for-the-badge)](https://hiwa.azurewebsites.net/diagrams)
-[![Utleieplattform](https://img.shields.io/badge/🏡_Utleieplattform-orange?style=for-the-badge)](https://houserental.azurewebsites.net/)
-
-### **📍 Åpen for Muligheter**
-**Drammen, Norge | Remote-vennlig | Global Samarbeid Klar**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HiwaAbdolahi&theme=tokyonight&hide_border=true" alt="Hiwa's contribution streak" />
 
 </div>
 
----
+## How I build
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🧩 Build
+
+I turn ideas into working systems and learn through implementation.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔍 Understand
+
+I want to understand why technology works, not only how to use it.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 Ship
+
+I take projects beyond localhost with containers, CI/CD and cloud deployment.
+
+</td>
+</tr>
+</table>
+
+## Let's connect
 
 <div align="center">
 
-### ⭐ **"Fra Algoritme til Produksjon - Hver Kodelinje Betyr Noe"** ⭐
+### Interested in software engineering, .NET, cloud, IoT, data and AI opportunities
 
-<sub>🚀 **For tiden:** Utforsker Kubernetes & mikrotjenester i skala</sub>  
-<sub>💡 **Neste:** ML-drevet IoT analytikk og edge computing</sub>  
-<sub>🎯 **Mål:** Lede komplekse tekniske prosjekter som skaper ekte påvirkning</sub>
+I am looking for a team where I can contribute, keep learning and build useful software.
 
----
+<p>
+  <a href="https://hiwa.azurewebsites.net"><img src="https://img.shields.io/badge/Explore_My_Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hiwa-abdolahi-210b03208/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:hiwa.abdolahi.dev@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+</p>
 
-**Likte du å utforske arbeidet mitt? Glem ikke å ⭐ stjerne repositories du fant interessante!**
+📍 **Drammen, Norway** · 🇳🇴 **Open to opportunities in Norway**
 
-*Klar til å diskutere ditt neste utfordrende prosjekt* 🔥
+### From idea → architecture → code → cloud.
+
+<sub>Thanks for visiting my profile.</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20)
 
 </div>
