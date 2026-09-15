@@ -1,57 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Hiwa Abdolahi — Software Developer</title>
-  <desc id="desc">A premium dark technology banner inspired by cloud, real-time data and connected systems.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" role="img" aria-labelledby="title desc">
+  <title id="title">Hiwa Abdolahi developer control center</title><desc id="desc">A cinematic developer dashboard combining code, cloud, IoT and live data.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.48" stop-color="#0b1f3a"/>
-      <stop offset="1" stop-color="#071525"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset=".5" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#8b5cf6"/>
-    </linearGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
-    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".42"/></filter>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".47" stop-color="#081a31"/><stop offset="1" stop-color="#100b2e"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".48" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#17233b"/><stop offset="1" stop-color="#091321"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#2563eb" stop-opacity=".36"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7dd3fc" stroke-opacity=".04"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".55"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1400" height="560" rx="32"/></clipPath>
   </defs>
-
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <ellipse cx="920" cy="150" rx="320" ry="250" fill="url(#glow)" filter="url(#soft)"/>
-  <ellipse cx="170" cy="350" rx="270" ry="120" fill="#7c3aed" opacity=".12" filter="url(#soft)"/>
-
-  <g opacity=".7" fill="none" stroke="#38bdf8">
-    <path d="M770 105C845 70 902 112 960 89S1074 65 1142 104" stroke-opacity=".22"/>
-    <path d="M760 182C828 141 885 213 948 169S1060 132 1145 183" stroke-opacity=".31"/>
-    <path d="M790 255C850 220 904 271 970 235S1080 224 1143 259" stroke-opacity=".2"/>
-    <g fill="#7dd3fc" stroke="none">
-      <circle cx="770" cy="105" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
-      <circle cx="960" cy="89" r="5"><animate attributeName="r" values="4;7;4" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="1142" cy="104" r="4"/>
-      <circle cx="760" cy="182" r="5"/>
-      <circle cx="948" cy="169" r="6"><animate attributeName="opacity" values="1;.35;1" dur="2.5s" repeatCount="indefinite"/></circle>
-      <circle cx="1145" cy="183" r="4"/>
-      <circle cx="790" cy="255" r="4"/>
-      <circle cx="970" cy="235" r="5"><animate attributeName="r" values="4;7;4" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="1143" cy="259" r="4"/>
+  <g clip-path="url(#frame)">
+    <rect width="1400" height="560" fill="url(#bg)"/><rect width="1400" height="560" fill="url(#grid)"/><circle cx="1130" cy="115" r="360" fill="url(#aura)"/><circle cx="230" cy="590" r="330" fill="#7c3aed" opacity=".12"/>
+    <g transform="translate(72 58)">
+      <g filter="url(#shadow)"><rect width="82" height="82" rx="22" fill="#0b1930" stroke="url(#brand)" stroke-width="2"/><text x="41" y="54" text-anchor="middle" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="800">HA</text><circle cx="71" cy="12" r="5" fill="#34d399"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle></g>
+      <text x="0" y="148" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-2">Hiwa Abdolahi</text>
+      <text x="2" y="191" fill="#67e8f9" font-family="Consolas,monospace" font-size="20" letter-spacing="1.1">SOFTWARE DEVELOPER / SYSTEM BUILDER</text>
+      <text x="2" y="246" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">I turn real-world ideas into</text><text x="2" y="278" fill="#e2e8f0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650">connected, intelligent software.</text>
+      <g transform="translate(0 326)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650"><g><rect width="88" height="34" rx="17" fill="#0e7490" opacity=".34" stroke="#22d3ee"/><text x="44" y="22" text-anchor="middle" fill="#a5f3fc">.NET</text></g><g transform="translate(98)"><rect width="92" height="34" rx="17" fill="#1d4ed8" opacity=".34" stroke="#60a5fa"/><text x="46" y="22" text-anchor="middle" fill="#bfdbfe">AZURE</text></g><g transform="translate(200)"><rect width="72" height="34" rx="17" fill="#4f46e5" opacity=".34" stroke="#818cf8"/><text x="36" y="22" text-anchor="middle" fill="#c7d2fe">IoT</text></g><g transform="translate(282)"><rect width="120" height="34" rx="17" fill="#7e22ce" opacity=".3" stroke="#c084fc"/><text x="60" y="22" text-anchor="middle" fill="#e9d5ff">APPLIED AI</text></g></g>
+      <g transform="translate(0 410)" font-family="Inter,Segoe UI,Arial,sans-serif"><circle cx="7" cy="-5" r="6" fill="#34d399" filter="url(#glow)"/><text x="23" y="0" fill="#94a3b8" font-size="16">Drammen, Norway</text><text x="0" y="36" fill="#64748b" font-size="14">M.Sc. Informatics @ USN · Open to opportunities</text></g>
+    </g>
+    <g transform="translate(650 48)" filter="url(#shadow)">
+      <rect width="674" height="456" rx="24" fill="url(#panel)" stroke="#38bdf8" stroke-opacity=".25"/><rect width="674" height="48" rx="24" fill="#111c30"/><rect y="25" width="674" height="23" fill="#111c30"/><circle cx="25" cy="24" r="6" fill="#fb7185"/><circle cx="47" cy="24" r="6" fill="#fbbf24"/><circle cx="69" cy="24" r="6" fill="#34d399"/><text x="108" y="30" fill="#64748b" font-family="Consolas,monospace" font-size="13">smart-energy / live-system.cs</text>
+      <g transform="translate(28 78)" font-family="Consolas,monospace" font-size="15"><text x="0" y="0" fill="#475569">01</text><text x="38" y="0" fill="#c084fc">public async Task</text><text x="178" y="0" fill="#e2e8f0"> BuildAsync()</text><text x="0" y="30" fill="#475569">02</text><text x="38" y="30" fill="#94a3b8">{</text><text x="0" y="60" fill="#475569">03</text><text x="60" y="60" fill="#60a5fa">var</text><text x="92" y="60" fill="#e2e8f0"> data = </text><text x="156" y="60" fill="#fbbf24">await</text><text x="205" y="60" fill="#e2e8f0"> mqtt.Receive();</text><text x="0" y="90" fill="#475569">04</text><text x="60" y="90" fill="#fbbf24">await</text><text x="108" y="90" fill="#e2e8f0"> cloud.Process(data);</text><text x="0" y="120" fill="#475569">05</text><text x="60" y="120" fill="#fbbf24">await</text><text x="108" y="120" fill="#e2e8f0"> dashboard.Push(data);</text><text x="0" y="150" fill="#475569">06</text><text x="38" y="150" fill="#94a3b8">}</text><rect x="37" y="166" width="9" height="19" fill="#67e8f9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+      <g transform="translate(388 75)" font-family="Inter,Segoe UI,Arial,sans-serif"><rect width="252" height="98" rx="16" fill="#0b1729" stroke="#22d3ee" stroke-opacity=".32"/><text x="18" y="27" fill="#64748b" font-size="12">SYSTEM STATUS</text><circle cx="21" cy="58" r="5" fill="#34d399"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle><text x="36" y="64" fill="#d1fae5" font-size="20" font-weight="700">LIVE</text><text x="166" y="64" fill="#67e8f9" font-size="20" font-weight="700">24/7</text><g transform="translate(0 116)"><rect width="120" height="106" rx="16" fill="#0b1729" stroke="#60a5fa" stroke-opacity=".3"/><text x="16" y="27" fill="#64748b" font-size="11">EVENTS</text><text x="16" y="63" fill="#dbeafe" font-size="26" font-weight="750">1.2K</text><path d="M16 86L34 76 51 82 71 61 88 69 105 50" fill="none" stroke="#60a5fa" stroke-width="2"/></g><g transform="translate(132 116)"><rect width="120" height="106" rx="16" fill="#0b1729" stroke="#a78bfa" stroke-opacity=".3"/><text x="16" y="27" fill="#64748b" font-size="11">CLOUD</text><text x="16" y="63" fill="#ede9fe" font-size="24" font-weight="750">AZURE</text><circle cx="92" cy="78" r="12" fill="none" stroke="#a78bfa" stroke-width="3" stroke-dasharray="52 24"><animateTransform attributeName="transform" type="rotate" from="0 92 78" to="360 92 78" dur="5s" repeatCount="indefinite"/></circle></g></g>
+      <g transform="translate(30 360)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" text-anchor="middle"><path d="M42 28H595" stroke="url(#brand)" stroke-width="2" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.8s" repeatCount="indefinite"/></path><g><circle cx="42" cy="28" r="21" fill="#0e7490" stroke="#22d3ee"/><text x="42" y="66" fill="#94a3b8">DEVICE</text></g><g><circle cx="180" cy="28" r="21" fill="#164e63" stroke="#38bdf8"/><text x="180" y="66" fill="#94a3b8">MQTT</text></g><g><circle cx="318" cy="28" r="21" fill="#1e3a8a" stroke="#60a5fa"/><text x="318" y="66" fill="#94a3b8">.NET</text></g><g><circle cx="456" cy="28" r="21" fill="#4c1d95" stroke="#a78bfa"/><text x="456" y="66" fill="#94a3b8">AZURE</text></g><g><circle cx="595" cy="28" r="21" fill="#581c87" stroke="#c084fc"/><text x="595" y="66" fill="#94a3b8">LIVE UI</text></g><circle r="5" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M42 28H595"/></circle></g>
     </g>
   </g>
-
-  <g filter="url(#shadow)">
-    <rect x="65" y="62" width="82" height="7" rx="3.5" fill="url(#accent)"/>
-    <text x="65" y="135" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="750" letter-spacing="-1">Hiwa Abdolahi</text>
-    <text x="68" y="178" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="1.2">SOFTWARE DEVELOPER</text>
-    <text x="68" y="224" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Building cloud-connected, data-driven systems</text>
-    <text x="68" y="269" fill="#7dd3fc" font-family="JetBrains Mono,Consolas,monospace" font-size="17">.NET  •  Azure  •  IoT  •  Real-time  •  Applied AI</text>
-    <text x="68" y="310" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Drammen, Norway  ·  M.Sc. Informatics @ USN</text>
-  </g>
-  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="1" y="1" width="1398" height="558" rx="31" fill="none" stroke="url(#brand)" stroke-opacity=".48" stroke-width="2"/>
 </svg>
