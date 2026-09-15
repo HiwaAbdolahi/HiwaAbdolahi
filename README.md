@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hiwa%20Abdolahi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20M.Sc.%20Informatics%20Student&descSize=18&descAlignY=58&animation=fadeIn)
+<img src="./assets/hiwa-hero.svg" width="100%" alt="Hiwa Abdolahi — Software Developer building cloud-connected, data-driven systems" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+with+.NET+%26+Azure;Creating+IoT+%26+real-time+systems;Connecting+cloud%2C+data+%26+applied+AI;Always+learning.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=From+idea+%E2%86%92+architecture+%E2%86%92+code+%E2%86%92+cloud;Building+with+.NET+%26+Microsoft+Azure;Creating+IoT+%26+real-time+systems;Connecting+cloud%2C+data+%26+applied+AI)](https://git.io/typing-svg)
 
 <p>
   <a href="https://hiwa.azurewebsites.net"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Portfolio" /></a>
@@ -30,7 +30,13 @@ I enjoy building complete systems: backend services, cloud infrastructure, real-
 💼 Open to software development opportunities in Norway
 ```
 
-## Featured work
+<div align="center">
+
+<img src="./assets/system-flow.svg" width="100%" alt="Device data flowing through MQTT, .NET and Azure to a live dashboard" />
+
+</div>
+
+## Selected work
 
 <table>
 <tr>
@@ -284,6 +290,6 @@ I am looking for a team where I can contribute, keep learning and build useful s
 
 <sub>Thanks for visiting my profile.</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20)
+<sub>Built with curiosity, care and a production mindset.</sub>
 
 </div>
