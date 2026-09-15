@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hiwa-hero.svg" width="100%" alt="Hiwa Abdolahi — Software Developer building cloud-connected, data-driven systems" />
+<img src="./assets/hiwa-hero.svg?v=3" width="100%" alt="Hiwa Abdolahi — Software Developer building cloud-connected, data-driven systems" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=From+idea+%E2%86%92+architecture+%E2%86%92+code+%E2%86%92+cloud;Building+with+.NET+%26+Microsoft+Azure;Creating+IoT+%26+real-time+systems;Connecting+cloud%2C+data+%26+applied+AI)](https://git.io/typing-svg)
 
@@ -34,7 +34,7 @@ I enjoy building complete systems: backend services, cloud infrastructure, real-
 
 <div align="center">
 
-<img src="./assets/project-showcase.svg" width="100%" alt="SmartEnergy, AI Office Check-In, Developer Portfolio and HouseRental" />
+<img src="./assets/project-showcase.svg?v=3" width="100%" alt="SmartEnergy, AI Office Check-In, Developer Portfolio and HouseRental" />
 
 </div>
 
