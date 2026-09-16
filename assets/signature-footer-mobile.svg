@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="445" viewBox="0 0 720 445" role="img"><title>Your next idea. Let's build it.</title><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091b21"/><stop offset=".58" stop-color="#07171e"/><stop offset="1" stop-color="#102b30"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#5ccdb4" stop-opacity=".25"/><stop offset=".5" stop-color="#3999a0" stop-opacity=".08"/><stop offset="1" stop-color="#091b21" stop-opacity="0"/></radialGradient>
+<linearGradient id="mint"><stop stop-color="#edffe8"/><stop offset=".42" stop-color="#96f2cd"/><stop offset="1" stop-color="#66adc0"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#204d50" stop-opacity=".8"/><stop offset=".55" stop-color="#102e35" stop-opacity=".92"/><stop offset="1" stop-color="#153841" stop-opacity=".75"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b4fada"/><stop offset=".45" stop-color="#62918e"/><stop offset="1" stop-color="#152e37"/></linearGradient>
+<linearGradient id="warm"><stop stop-color="#f0d7a8"/><stop offset="1" stop-color="#b3c7ae"/></linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="23"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="shadow" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="19"/></filter>
+</defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace;letter-spacing:2px}.ivory{fill:#f3efdf}.muted{fill:#96acaa}.mint{fill:#96f2cd}
+.float{animation:float 9s ease-in-out infinite}.float2{animation:float 9s ease-in-out -3s infinite}.flow{stroke-dasharray:9 420;animation:flow 12s linear infinite}
+.breathe{animation:breathe 7s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes flow{to{stroke-dashoffset:-858}}@keyframes breathe{0%,100%{opacity:.35}50%{opacity:.9}}
+@media(prefers-reduced-motion:reduce){.float,.float2,.flow,.breathe{animation:none}}
+</style><rect width="720" height="445" rx="24" fill="url(#bg)"/><text x="36" y="48" class="mint mono" font-size="12">START OF A CONVERSATION.</text><text x="31" y="142" class="ivory" font-size="67" font-weight="700" letter-spacing="-3">Your next idea.</text><text x="31" y="222" class="ivory" font-size="67" font-weight="700" letter-spacing="-3">Let’s build it<tspan fill="#96f2cd">.</tspan></text><text x="36" y="274" class="muted" font-size="20">Open to software opportunities in Norway.</text><path d="M36 327H684" stroke="#35514f"/><text x="36" y="375" class="ivory mono" font-size="17">hiwa.abdolahi.dev@gmail.com</text><g transform="translate(633 378)"><circle r="29" fill="#163b3e" stroke="#628f80" class="breathe"/><path d="M-9 9L10-10M-8-10H10V8" stroke="#bff7d7" fill="none" stroke-width="2"/></g><rect x="1" y="1" width="718" height="443" rx="23" fill="none" stroke="#35514f"/></svg>
