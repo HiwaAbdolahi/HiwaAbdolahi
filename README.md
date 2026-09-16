@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/atelier-hero.svg" width="100%" alt="Hiwa Abdolahi — Software Developer. Ideas become working systems. .NET, Azure, IoT and applied AI." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/signature-hero-mobile.svg" />
+  <img src="./assets/signature-hero.svg" width="100%" alt="Hiwa Abdolahi — software developer. A sculptural HA monogram on floating glass layers. Connecting devices, data, code and cloud." />
+</picture>
 
 <br />
 
@@ -130,7 +133,12 @@ I learn best by building something, understanding the trade-offs and improving i
 
 <br />
 
-<a href="mailto:hiwa.abdolahi.dev@gmail.com"><img src="./assets/atelier-footer.svg" width="100%" alt="Let's build something useful. Open to software development opportunities in Norway." /></a>
+<a href="mailto:hiwa.abdolahi.dev@gmail.com">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/signature-footer-mobile.svg" />
+  <img src="./assets/signature-footer.svg" width="100%" alt="Your next idea. Let's build it. Email hiwa.abdolahi.dev@gmail.com — open to software opportunities in Norway." />
+</picture>
+</a>
 
 <div align="center">
 
