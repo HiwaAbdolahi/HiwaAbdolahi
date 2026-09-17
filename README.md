@@ -15,13 +15,15 @@
 
 <br />
 
-## A little context
+## Software that connects the pieces
 
 I'm **Hiwa**, a software developer who likes understanding how the whole system fits together — from a message arriving at a backend service to the experience someone sees on screen.
 
 I build with **C# / .NET and Azure**, and explore real-time systems, data and applied AI through hands-on projects. I hold a **B.Sc. in Information Technology from OsloMet** and am pursuing an **M.Sc. in Informatics at USN Kongsberg**.
 
-What keeps me interested is the connection between the layers: how data moves, how services communicate and how an idea becomes something people can use.
+**Looking for my next step:** a junior software developer, .NET or full-stack role in Norway, with a team where I can contribute, learn and grow.
+
+**[Selected work](#selected-work)** · **[Inside the system](#inside-smartenergy)** · **[Code anatomy](#code-anatomy)** · **[Education](#education)** · **[Contact](#lets-build-something-useful)
 
 <br />
 
@@ -33,7 +35,7 @@ What keeps me interested is the connection between the layers: how data moves, h
 
 A cloud-connected project bringing together MQTT messaging, backend services and a real-time dashboard. Containerized services run on **Azure Container Apps**, with **GitHub Actions** handling deployment.
 
-**Engineering focus:** connecting telemetry, secure messaging and live updates across service boundaries.
+**Inside the code:** a .NET background worker consumes temperature messages and publishes heater commands. The dashboard, broker and worker run as three containers, with a GitHub Actions deployment workflow.
 
 `C#` `.NET 8` `MQTT` `WebSockets` `Docker` `Azure Container Apps` `GitHub Actions`
 
@@ -45,7 +47,7 @@ A cloud-connected project bringing together MQTT messaging, backend services and
 
 ### AI Office Check-In · Bachelor project with Evidi AS
 
-An office check-in application developed in collaboration with **Evidi AS and OsloMet**. It brings **Azure Face API**, authentication, Cosmos DB and Blob Storage together in an ASP.NET Core application.
+A **four-person bachelor team project**, developed in collaboration with **Evidi AS and OsloMet**. It brings **Azure Face API**, authentication, Cosmos DB and Blob Storage together in an ASP.NET Core application.
 
 **Engineering focus:** integrating a cloud AI service with an application's identity, data and image-storage workflows.
 
@@ -61,7 +63,7 @@ An office check-in application developed in collaboration with **Evidi AS and Os
 
 My own space for presenting projects and the thinking behind them. Built with **ASP.NET Core MVC**, it combines an AI assistant, GSAP animations, project galleries and interactive architecture diagrams.
 
-**Engineering focus:** connecting backend functionality to a responsive, expressive user interface.
+**Inside the code:** an ASP.NET Core chat controller connects the interface to an AI service and keeps conversation context in the user session.
 
 `ASP.NET Core MVC` `JavaScript` `GSAP` `Azure` `AI integration`
 
@@ -75,11 +77,60 @@ My own space for presenting projects and the thinking behind them. Built with **
 
 A rental application covering property management, authentication, database persistence and image handling, with a responsive interface and Azure deployment.
 
-**Engineering focus:** connecting application logic, user access and persistent data in one complete web application.
+**Inside the code:** authorized property-management actions, a repository layer, Entity Framework persistence and image uploads.
 
 `C#` `ASP.NET Core MVC` `Entity Framework Core` `Identity` `Azure`
 
 **[Explore the code ↗](https://github.com/HiwaAbdolahi/HouseRentalProject)** &nbsp; · &nbsp; **[Open demo ↗](https://houserental.azurewebsites.net/)**
+
+<br />
+
+## Inside SmartEnergy
+
+<img src="./assets/smartenergy-loop.svg" width="100%" alt="Example message flow: the dashboard sends a temperature reading through the MQTT broker to the .NET worker; below 21°C the worker sends an ON command back through the broker to the dashboard." />
+
+A small control loop with several engineering concerns: message delivery, connection recovery, state updates and container deployment. The animation illustrates the documented flow; it is not live telemetry.
+
+<details>
+<summary><strong>For the technical reader — start with these files</strong></summary>
+
+| Question | Where to look |
+|:---|:---|
+| How does a reading become a decision? | [SmartEnergy worker](https://github.com/HiwaAbdolahi/SmartEnergy/blob/master/workerC/Worker.cs) — temperature parsing, control rule, retained commands and reconnect handling |
+| How does the system reach Azure? | [Deployment workflow](https://github.com/HiwaAbdolahi/SmartEnergy/blob/master/.github/workflows/deploy.yml) — container build and deployment |
+| How is AI connected to the interface? | [Portfolio chat controller](https://github.com/HiwaAbdolahi/PortfolioWebsite/blob/master/Controllers/ChatController.cs) — API integration and session context |
+| How are rental properties managed? | [HouseRental controller](https://github.com/HiwaAbdolahi/HouseRentalProject/blob/master/Controllers/HouseController.cs) — authorized actions, repository access and uploads |
+
+</details>
+
+<br />
+
+## Code anatomy
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/code-anatomy-mobile.svg" />
+  <img src="./assets/code-anatomy.svg" width="100%" alt="Source-file snapshot of four featured repositories, 17 September 2026: 132 files; C# 60, Razor 50, JavaScript 10, CSS 11 and HTML 1. Repository counts: SmartEnergy 4, Portfolio 27, HouseRental 66, AI Check-In 35." />
+</picture>
+
+The source behind the projects, measured by **file count**. This describes the repositories, including the bachelor team's shared code; it does not measure personal authorship or proficiency.
+
+<details>
+<summary>Inspect the numbers &amp; how the graphic was built</summary>
+
+| Language / template | Files |
+|:---|---:|
+| C# | 60 |
+| Razor | 50 |
+| JavaScript | 10 |
+| CSS | 11 |
+| HTML | 1 |
+| **Total** | **132** |
+
+Snapshot: **17 September 2026**. Four featured repositories only. Generated build output, vendored libraries, migrations, Identity scaffold folders and minified files are excluded. This is a dated inventory, not live contribution activity or GitHub's byte-based language statistic.
+
+[Inspect the source inventory](./data/profile-code-snapshot.json) · [Read the methodology](./PROFILE-DESIGN.md) · [See the SVG generator](./scripts/build-profile.mjs)
+
+</details>
 
 <br />
 
@@ -98,7 +149,8 @@ The technologies I use in projects — and the areas I'm still developing.
 
 <br />
 
-## Beyond the featured projects
+<details>
+<summary><strong>More projects — testing, machine learning, networks and algorithms</strong></summary>
 
 | Project | What it explores |
 |:---|:---|
@@ -106,6 +158,8 @@ The technologies I use in projects — and the areas I'm still developing.
 | **[AI / ML Lab ↗](https://github.com/HiwaAbdolahi/My_lab_AI_Labs)** | Python, regression, Random Forest and model evaluation |
 | **[Network Analysis ↗](https://github.com/HiwaAbdolahi/sky)** | Network performance, bandwidth and latency with Python and Mininet |
 | **[Algorithms & Data Structures ↗](https://github.com/HiwaAbdolahi/algoritmerOgDatastrukturer-master)** | Search trees, traversal and algorithmic problem solving |
+
+</details>
 
 <br />
 
@@ -132,13 +186,13 @@ The technologies I use in projects — and the areas I'm still developing.
 
 <br />
 
-## Explore my work on GitHub
+## Let's build something useful
 
-<a href="https://github.com/HiwaAbdolahi?tab=repositories"><img src="./assets/explore-code.svg" width="100%" alt="Explore my repositories on GitHub — source code, project documentation and commit history." /></a>
+I'm interested in **junior software development, .NET and full-stack opportunities in Norway**. My strongest project experience connects backend development, Azure deployment and user-facing applications.
 
-**[Browse all repositories ↗](https://github.com/HiwaAbdolahi?tab=repositories)** &nbsp; · &nbsp; **[View profile & contributions ↗](https://github.com/HiwaAbdolahi)**
+If that fits your team, I'd be happy to discuss the work, the decisions behind it and where I can contribute.
 
-I'm interested in software development roles where I can contribute with .NET and Azure, learn from an experienced team and build useful systems.
+**[Email me ↗](mailto:hiwa.abdolahi.dev@gmail.com)** · **[Connect on LinkedIn ↗](https://www.linkedin.com/in/hiwa-abdolahi-210b03208/)** · **[Browse my repositories ↗](https://github.com/HiwaAbdolahi?tab=repositories)**
 
 <br />
 
@@ -153,6 +207,6 @@ I'm interested in software development roles where I can contribute with .NET an
 
 **[Portfolio ↗](https://hiwa.azurewebsites.net)** &nbsp; · &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/hiwa-abdolahi-210b03208/)** &nbsp; · &nbsp; **[Email ↗](mailto:hiwa.abdolahi.dev@gmail.com)**
 
-<sub>Designed around the work. Built to keep evolving.</sub>
+<sub>Custom SVG artwork · documented source data · <a href="./PROFILE-DESIGN.md">How this profile is built</a></sub>
 
 </div>
