@@ -1,0 +1,841 @@
+{
+  "date": "2026-09-17",
+  "files": [
+    {
+      "category": "HTML",
+      "path": "dashboardC/index.html",
+      "repo": "SmartEnergy",
+      "size": 40339
+    },
+    {
+      "category": "C#",
+      "path": "workerC/Program.cs",
+      "repo": "SmartEnergy",
+      "size": 495
+    },
+    {
+      "category": "C#",
+      "path": "workerC/Settings.cs",
+      "repo": "SmartEnergy",
+      "size": 701
+    },
+    {
+      "category": "C#",
+      "path": "workerC/Worker.cs",
+      "repo": "SmartEnergy",
+      "size": 4951
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/ChatController.cs",
+      "repo": "PortfolioWebsite",
+      "size": 10677
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/DiagramsController.cs",
+      "repo": "PortfolioWebsite",
+      "size": 187
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/HomeController.cs",
+      "repo": "PortfolioWebsite",
+      "size": 1848
+    },
+    {
+      "category": "C#",
+      "path": "Models/ContactFormModel.cs",
+      "repo": "PortfolioWebsite",
+      "size": 667
+    },
+    {
+      "category": "C#",
+      "path": "Models/ErrorViewModel.cs",
+      "repo": "PortfolioWebsite",
+      "size": 201
+    },
+    {
+      "category": "C#",
+      "path": "Program.cs",
+      "repo": "PortfolioWebsite",
+      "size": 1637
+    },
+    {
+      "category": "C#",
+      "path": "Services/EmailService.cs",
+      "repo": "PortfolioWebsite",
+      "size": 1461
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Diagrams/Architecture.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 22257
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Home/Index.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 35067
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Home/Privacy.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 138
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Home/_ContactForm.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 1844
+    },
+    {
+      "category": "C#",
+      "path": "Views/Home/_ContactForm.cshtml.cs",
+      "repo": "PortfolioWebsite",
+      "size": 225
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/Error.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 859
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_Layout.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 2445
+    },
+    {
+      "category": "CSS",
+      "path": "Views/Shared/_Layout.cshtml.css",
+      "repo": "PortfolioWebsite",
+      "size": 877
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_PortfolioDiagramsLayout.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 4741
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 174
+    },
+    {
+      "category": "Razor",
+      "path": "Views/_ViewImports.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 111
+    },
+    {
+      "category": "Razor",
+      "path": "Views/_ViewStart.cshtml",
+      "repo": "PortfolioWebsite",
+      "size": 32
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/diagrams.css",
+      "repo": "PortfolioWebsite",
+      "size": 21919
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/site.css",
+      "repo": "PortfolioWebsite",
+      "size": 341
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/style.css",
+      "repo": "PortfolioWebsite",
+      "size": 93647
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/js/chat-agent.js",
+      "repo": "PortfolioWebsite",
+      "size": 10702
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/js/contact-form.js",
+      "repo": "PortfolioWebsite",
+      "size": 5567
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/js/gsap-animations.js",
+      "repo": "PortfolioWebsite",
+      "size": 29839
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/js/main.js",
+      "repo": "PortfolioWebsite",
+      "size": 14452
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/js/site.js",
+      "repo": "PortfolioWebsite",
+      "size": 227
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/HomeController.cs",
+      "repo": "HouseRentalProject",
+      "size": 595
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/HouseController.cs",
+      "repo": "HouseRentalProject",
+      "size": 9145
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/LeaseAgreementController.cs",
+      "repo": "HouseRentalProject",
+      "size": 6609
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/OwnerController.cs",
+      "repo": "HouseRentalProject",
+      "size": 5985
+    },
+    {
+      "category": "C#",
+      "path": "Controllers/RenterController.cs",
+      "repo": "HouseRentalProject",
+      "size": 7026
+    },
+    {
+      "category": "C#",
+      "path": "DAL/DbInit.cs",
+      "repo": "HouseRentalProject",
+      "size": 5006
+    },
+    {
+      "category": "C#",
+      "path": "DAL/HouseDbContext.cs",
+      "repo": "HouseRentalProject",
+      "size": 760
+    },
+    {
+      "category": "C#",
+      "path": "DAL/HouseRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 4142
+    },
+    {
+      "category": "C#",
+      "path": "DAL/IHouseRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 449
+    },
+    {
+      "category": "C#",
+      "path": "DAL/ILeaseAgreementRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 410
+    },
+    {
+      "category": "C#",
+      "path": "DAL/IOwnerRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 336
+    },
+    {
+      "category": "C#",
+      "path": "DAL/IRenterRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 320
+    },
+    {
+      "category": "C#",
+      "path": "DAL/LeaseAgreementRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 3052
+    },
+    {
+      "category": "C#",
+      "path": "DAL/OwnerRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 3035
+    },
+    {
+      "category": "C#",
+      "path": "DAL/RenterRepository.cs",
+      "repo": "HouseRentalProject",
+      "size": 2727
+    },
+    {
+      "category": "C#",
+      "path": "Helpers/AllowedExtensionsAttribute.cs",
+      "repo": "HouseRentalProject",
+      "size": 950
+    },
+    {
+      "category": "C#",
+      "path": "Helpers/HtmlHelperExtensions.cs",
+      "repo": "HouseRentalProject",
+      "size": 415
+    },
+    {
+      "category": "C#",
+      "path": "Models/House.cs",
+      "repo": "HouseRentalProject",
+      "size": 1746
+    },
+    {
+      "category": "C#",
+      "path": "Models/HouseImage.cs",
+      "repo": "HouseRentalProject",
+      "size": 711
+    },
+    {
+      "category": "C#",
+      "path": "Models/LeaseAgreement.cs",
+      "repo": "HouseRentalProject",
+      "size": 1166
+    },
+    {
+      "category": "C#",
+      "path": "Models/Owner.cs",
+      "repo": "HouseRentalProject",
+      "size": 822
+    },
+    {
+      "category": "C#",
+      "path": "Models/Renter.cs",
+      "repo": "HouseRentalProject",
+      "size": 1003
+    },
+    {
+      "category": "C#",
+      "path": "Program.cs",
+      "repo": "HouseRentalProject",
+      "size": 2602
+    },
+    {
+      "category": "C#",
+      "path": "ViewModel/DetailsViewModel.cs",
+      "repo": "HouseRentalProject",
+      "size": 439
+    },
+    {
+      "category": "C#",
+      "path": "ViewModel/HouseListViewModel.cs",
+      "repo": "HouseRentalProject",
+      "size": 444
+    },
+    {
+      "category": "C#",
+      "path": "ViewModel/HouseUploadViewModel.cs",
+      "repo": "HouseRentalProject",
+      "size": 1714
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Home/Index.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 334
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Create.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 3451
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Delete.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1276
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Details.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 972
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Grid.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 375
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Table.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 446
+    },
+    {
+      "category": "Razor",
+      "path": "Views/House/Update.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 3455
+    },
+    {
+      "category": "Razor",
+      "path": "Views/LeaseAgreement/CreateNewLeaseAgreement.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1622
+    },
+    {
+      "category": "Razor",
+      "path": "Views/LeaseAgreement/Delete.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 3464
+    },
+    {
+      "category": "Razor",
+      "path": "Views/LeaseAgreement/Table.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 127
+    },
+    {
+      "category": "Razor",
+      "path": "Views/LeaseAgreement/Update.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1691
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Owner/CreateNewOwner.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 850
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Owner/Delete.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1405
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Owner/DetailsHouseForOwner.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 245
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Owner/Table.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 98
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Owner/Update.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 814
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Renter/CreateNewRenter.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1210
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Renter/Delete.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 840
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Renter/DetailsForRenter.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 241
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Renter/Table.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 101
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Renter/Update.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1169
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_Carousel.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1939
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_Details.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 2488
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_HouseCard.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 645
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_HouseTable.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 3159
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_Layout.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 5364
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_LeaseAgreementTable.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 2531
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_LoginPartial.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 1152
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_OwnerTable.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 2383
+    },
+    {
+      "category": "Razor",
+      "path": "Views/Shared/_RenterTable.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 2607
+    },
+    {
+      "category": "Razor",
+      "path": "Views/_ViewImports.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 100
+    },
+    {
+      "category": "Razor",
+      "path": "Views/_ViewStart.cshtml",
+      "repo": "HouseRentalProject",
+      "size": 32
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/JS/JavaScript.js",
+      "repo": "HouseRentalProject",
+      "size": 226
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/JS/navbar.js",
+      "repo": "HouseRentalProject",
+      "size": 3
+    },
+    {
+      "category": "JavaScript",
+      "path": "wwwroot/JS/swiper-init.js",
+      "repo": "HouseRentalProject",
+      "size": 396
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/DetailsHouse.css",
+      "repo": "HouseRentalProject",
+      "size": 1594
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/Grid.css",
+      "repo": "HouseRentalProject",
+      "size": 2316
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/Layout.css",
+      "repo": "HouseRentalProject",
+      "size": 13656
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/Swiper.css",
+      "repo": "HouseRentalProject",
+      "size": 1279
+    },
+    {
+      "category": "CSS",
+      "path": "wwwroot/css/Table.css",
+      "repo": "HouseRentalProject",
+      "size": 4910
+    },
+    {
+      "category": "C#",
+      "path": "src/Controllers/ExitController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 1709
+    },
+    {
+      "category": "C#",
+      "path": "src/Controllers/HomeController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 1892
+    },
+    {
+      "category": "C#",
+      "path": "src/Controllers/InfoController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 3576
+    },
+    {
+      "category": "C#",
+      "path": "src/Interfaces/IComputerVisionService.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 170
+    },
+    {
+      "category": "C#",
+      "path": "src/Interfaces/IEmployeeRepository.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 830
+    },
+    {
+      "category": "C#",
+      "path": "src/Interfaces/IFaceRecognitionService.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 255
+    },
+    {
+      "category": "C#",
+      "path": "src/Models/Employee.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 775
+    },
+    {
+      "category": "C#",
+      "path": "src/Models/ImageData.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 112
+    },
+    {
+      "category": "C#",
+      "path": "src/Models/RecognitionResult.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 156
+    },
+    {
+      "category": "C#",
+      "path": "src/Models/User.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 307
+    },
+    {
+      "category": "C#",
+      "path": "src/Program.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 3147
+    },
+    {
+      "category": "C#",
+      "path": "src/Repositories/EmployeeRepository.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 12581
+    },
+    {
+      "category": "C#",
+      "path": "src/Services/BackgroundServices/FaceBackgroundService.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 1383
+    },
+    {
+      "category": "C#",
+      "path": "src/Services/ComputerVisionService.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 2095
+    },
+    {
+      "category": "C#",
+      "path": "src/Services/FaceRecognitionService.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 8269
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Controllers/ExitController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 432
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Controllers/HomeController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 455
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Controllers/InfoController.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 3011
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Models/Employee.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 769
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Models/ErrorViewModel.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 173
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Models/User.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 301
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Program.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 2081
+    },
+    {
+      "category": "C#",
+      "path": "srcFrontend/Repositories/UserDbContext.cs",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 394
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Exit/Index.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 509
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Home/Index.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 543
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Info/Index.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 14765
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Info/_InfoPartial.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 12255
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Info/_InfoPartialRemote.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 10504
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Shared/_Layout.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 3910
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Shared/_LoginPartial.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 957
+    },
+    {
+      "category": "Razor",
+      "path": "srcFrontend/Views/Shared/_ViewImports.cshtml",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 198
+    },
+    {
+      "category": "CSS",
+      "path": "srcFrontend/wwwroot/css/infoSheet.css",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 4312
+    },
+    {
+      "category": "CSS",
+      "path": "srcFrontend/wwwroot/css/site.css",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 1295
+    },
+    {
+      "category": "JavaScript",
+      "path": "srcFrontend/wwwroot/js/script.js",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 2594
+    },
+    {
+      "category": "JavaScript",
+      "path": "srcFrontend/wwwroot/js/site.js",
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "size": 226
+    }
+  ],
+  "rows": [
+    {
+      "counts": {
+        "C#": 3,
+        "HTML": 1
+      },
+      "repo": "SmartEnergy",
+      "sha": "95d0f2d6ca4839cf4afc085ca0ef8d6cf4123563",
+      "total": 4
+    },
+    {
+      "counts": {
+        "C#": 8,
+        "CSS": 4,
+        "JavaScript": 5,
+        "Razor": 10
+      },
+      "repo": "PortfolioWebsite",
+      "sha": "e1e7871777eae0cd2a7f2fa45a07a2f6c203fff2",
+      "total": 27
+    },
+    {
+      "counts": {
+        "C#": 26,
+        "CSS": 5,
+        "JavaScript": 3,
+        "Razor": 32
+      },
+      "repo": "HouseRentalProject",
+      "sha": "247dc596cb40df7c2da93afa22d64e5da6a94dd5",
+      "total": 66
+    },
+    {
+      "counts": {
+        "C#": 23,
+        "CSS": 2,
+        "JavaScript": 2,
+        "Razor": 8
+      },
+      "repo": "bachelorOppgave2024EvidiOslomet",
+      "sha": "1122188c64dd849324deed55f8b8d2bf42228868",
+      "total": 35
+    }
+  ]
+}
