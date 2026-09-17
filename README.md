@@ -9,7 +9,7 @@
 
 **[Explore my portfolio ↗](https://hiwa.azurewebsites.net)** &nbsp; · &nbsp; **[Connect on LinkedIn ↗](https://www.linkedin.com/in/hiwa-abdolahi-210b03208/)** &nbsp; · &nbsp; **[Get in touch ↗](mailto:hiwa.abdolahi.dev@gmail.com)**
 
-<sub>Drammen, Norway &nbsp; / &nbsp; M.Sc. Informatics student &nbsp; / &nbsp; Open to opportunities</sub>
+<sub>Drammen, Norway &nbsp; / &nbsp; B.Sc. · OsloMet &nbsp; / &nbsp; M.Sc. · USN Kongsberg · in progress</sub>
 
 </div>
 
@@ -109,27 +109,36 @@ The technologies I use in projects — and the areas I'm still developing.
 
 <br />
 
-## Still building. Still learning.
+## Education
 
-**2026 — Present · M.Sc. Informatics, USN Kongsberg**  
-Expanding my understanding of data management, cloud technologies and distributed systems.
-
-**2021 — 2024 · B.Sc. Information Technology, OsloMet**  
-Software development, databases, algorithms, AI, testing, operating systems and information security.
-
-I learn best by building something, understanding the trade-offs and improving it. I'm looking for a team where I can contribute that curiosity, learn from others and take responsibility for useful software.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/education-journey-mobile.svg" />
+  <img src="./assets/education-journey.svg" width="100%" alt="Education: B.Sc. in Information Technology, OsloMet, Oslo, 2021–2024 — completed. M.Sc. in Informatics, University of South-Eastern Norway (USN), Kongsberg, 2026–present — in progress." />
+</picture>
 
 <details>
-<summary><b>GitHub activity & language overview</b></summary>
+<summary>Degree details &amp; academic foundation</summary>
+
+| Qualification | Institution & campus | Period | Status |
+|:---|:---|:---|:---|
+| **B.Sc. in Information Technology** | Oslo Metropolitan University (OsloMet), Oslo | 2021–2024 | Completed |
+| **M.Sc. in Informatics** | University of South-Eastern Norway (USN), Kongsberg | 2026–present | In progress |
+
+**Bachelor foundation:** software development, databases, algorithms, AI, software testing, operating systems and information security. My bachelor project was an [AI office check-in application developed with Evidi AS and OsloMet](https://github.com/HiwaAbdolahi/bachelorOppgave2024EvidiOsloMet).
+
+**Current focus:** developing my understanding of data management, cloud technologies and distributed systems through my master's studies and projects.
+
+</details>
 
 <br />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HiwaAbdolahi&show_icons=true&hide_border=true&bg_color=091b21&title_color=96f2cd&text_color=f3efdf&icon_color=96f2cd&hide_rank=true" alt="GitHub activity statistics — external service" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwaAbdolahi&layout=compact&hide_border=true&bg_color=091b21&title_color=96f2cd&text_color=f3efdf" alt="Most used languages in public repositories — external service" />
+## Explore my work on GitHub
 
-<sub>These optional cards use an external service. [View my repositories directly](https://github.com/HiwaAbdolahi?tab=repositories) if they are unavailable. Language statistics describe repository contents, not proficiency.</sub>
+<a href="https://github.com/HiwaAbdolahi?tab=repositories"><img src="./assets/explore-code.svg" width="100%" alt="Explore my repositories on GitHub — source code, project documentation and commit history." /></a>
 
-</details>
+**[Browse all repositories ↗](https://github.com/HiwaAbdolahi?tab=repositories)** &nbsp; · &nbsp; **[View profile & contributions ↗](https://github.com/HiwaAbdolahi)**
+
+I'm interested in software development roles where I can contribute with .NET and Azure, learn from an experienced team and build useful systems.
 
 <br />
 
